@@ -6,7 +6,7 @@ Descriptions of papers
 ***NextItNet*** 
 - - -
 ## <span style="color: magenta">2018</span>
-### [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding (WSDM 2018](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
+### [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding (WSDM 2018)](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
 ***Caser***
 - - -
 ## <span style="color: magenta">2014</span>
