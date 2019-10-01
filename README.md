@@ -1,13 +1,14 @@
 # Paper
 Descriptions of papers
 
-2019
-### A Simple Convolutional Generative Network for Next Item Recommendation (WSDM 2019)
+## <span style="color: magenta">2019</span>
+### [A Simple Convolutional Generative Network for Next Item Recommendation (WSDM 2019)](https://dl.acm.org/citation.cfm?id=3290975)
 ***NextItNet*** 
-
-2018
-### Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding (WSDM 2018)
+- - -
+## <span style="color: magenta">2018</span>
+### [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding (WSDM 2018](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
 ***Caser***
-
-2014
-### Convolutional Neural Networks for Sentence Classification (EMNLP 2014)
+- - -
+## <span style="color: magenta">2014</span>
+### [Convolutional Neural Networks for Sentence Classification (EMNLP 2014)](https://www.aclweb.org/anthology/D14-1181)
+- - -
