@@ -11,7 +11,7 @@ Descriptions of papers
 ### [Semantic Image Synthesis with Spatially-Adaptive Normalization (CVPR 2019)](https://arxiv.org/pdf/1903.07291.pdf)
 ***SPADE***
 - - -
-### [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
+### [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning (CVPR 2019)](https://arxiv.org/abs/1903.02351)
 ***CANet***
 - - -
 
@@ -19,7 +19,7 @@ Descriptions of papers
 ### [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding (WSDM 2018)](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
 ***Caser***
 - - -
-### [Conditional Networks for Few-Shot Semantic Segmentation](https://openreview.net/forum?id=SkMjFKJwG)
+### [Conditional Networks for Few-Shot Semantic Segmentation (ICLR 2018 Workshop)](https://openreview.net/forum?id=SkMjFKJwG)
 ***co-FCN***
 - - -
 
